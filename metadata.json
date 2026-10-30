@@ -1,0 +1,6 @@
+{
+  "name": "CivicPulse AI",
+  "description": "AI-powered civic complaint management platform that helps citizens report public problems and authorities prioritize, track, and resolve them.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
